@@ -682,9 +682,9 @@ ul.style-dots li{
 @media screen and (max-width:650px){
  .hero__title span{
     padding: 1.389vw 1.889vw;
-    border-radius: 1.389vw;
-    filter: unset;
-    line-height: 100%;
+    /* border-radius: 1.389vw; */
+    filter: url(#goo-mob);
+    /* line-height: 100%; */
   } 
   .hero__title{
     padding-top: 1.389vw;
