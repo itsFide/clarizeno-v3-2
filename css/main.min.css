@@ -272,7 +272,7 @@ ul{
     }
 }
 .pinoy__title span::before{
-    width: 107%;
+    width: 104%;
 }
 .pinoy__title span{
     margin-right: 15px;
@@ -697,7 +697,7 @@ ul.style-dots li{
     width: 103%;
 }
 .stories .pinoy__title span::before{
-    width: 103%;
+    width: 101%;
 }
 @media screen and (max-width: 650px) {
     .pinoy__title {
@@ -802,4 +802,10 @@ ul.style-dots li{
     .sales-header .title span::before{
         display: none;
     } */
+    .pinoy__title span{
+        margin-right: 7px;
+    }
+    .pagkalalaki__inner .title{
+        font-size: 6.346vw;
+    }
 }
